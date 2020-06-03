@@ -18,6 +18,13 @@ MySecondTest
     [Tags]    Smoke
     Log    I am Priya Sharan    
     
+MyThirdTest
+    [Tags]    Functional
+    Log    I am Working in Ducen
+    
+MyFourthTest
+    Log    I Like to work in Ducen
+    
 
 FirstSeleniumTest
     Open Browser   ${Url}    Chrome
